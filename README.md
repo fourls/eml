@@ -1,5 +1,7 @@
 # `eml`
 
+[![Rust](https://github.com/fourls/eml/actions/workflows/rust.yml/badge.svg)](https://github.com/fourls/eml/actions/workflows/rust.yml)
+
 An email message reader written in Rust. Just a small side project for something to do.
 
 ### Current state
